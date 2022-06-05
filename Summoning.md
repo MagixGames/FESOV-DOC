@@ -27,8 +27,7 @@
 
 <div id="#ref_pre-req">
 
-<h2 align="center">FAQ
-</h2>
+## - **FAQ** -
 Q: Can more conjures/invokes be created?<br>
 A: No. So far, without code.bin, no more can be created other than the ones given in the items menu.
 
