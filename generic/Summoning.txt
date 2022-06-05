@@ -1,0 +1,13 @@
+ ----- Summoning -----
+
+
+- FAQ -
+	Q: Can more conjures/invokes be created?<br>
+	A: No. So far, without code.bin, no more can be created other than the ones given in the items menu.
+
+- 1. Editing the summoned unit**
+	Under the spell you are editing for, there is a field called PID.
+
+	This value dicates which character is being summoned from the spell you are editing. If you wish to edit the illusion or conjured, I recommend creating a new character and perhaps copying the character you want edited and give it a new PID and then put that PID on the spell you are editing.
+
+	To search for which character is being used by a spell, copy the PID value and paste it into the characters menu to get the character.
