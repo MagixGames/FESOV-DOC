@@ -19,26 +19,26 @@
 </details>
 
 <br />
-
+<!--
 ###### hint: [Google Translate](https://translate.google.com/) is going to be your best friend!
-
+-->
 
 
 
 <div id="#ref_pre-req">
 
-<h3 align="center">FAQ
-</h3>
+<h2 align="center">FAQ
+</h2>
 Q: Can more conjures/invokes be created?<br>
 A: No. So far, without code.bin, no more can be created other than the ones given in the items menu.
 
-<br><br>
+<br>
 
 </div>
 
 <div id="#ref_01">
 
-### 1. Editing the summoned unit
+## **1. Editing the summoned unit**
 Under the spell you are editing for, there is a field called PID.
 
 <a href="images/screenshots/SS_InvokeSilquePIDHighlight_Zoom.png">
